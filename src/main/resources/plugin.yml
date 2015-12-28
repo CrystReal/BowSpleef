@@ -1,0 +1,9 @@
+name: BowSpleef
+main: com.updg.bowspleef.BowSpleefPlugin
+version: 1
+depend: [CRAPI]
+commands:
+  addspawn:
+  setlobby:
+  setfloor:
+  clearspawns:
